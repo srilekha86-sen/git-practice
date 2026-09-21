@@ -7,4 +7,6 @@ Flour,Sugar,egg,milk,Baking Soda,Butter
 2.Add luke warm milk and melted Butter
 3.Heat the Pan
 4.Pour the batter on the heating Pan
-5.
+5.Wait till the batter is cooked
+6.Flip the pan cake 
+7.Serve the hot pancake with honey
