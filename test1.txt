@@ -3,3 +3,5 @@ Pancake
 -----Ingredients----
 Flour,Sugar,egg,milk,Baking Soda,Butter
 -----Cooking Methods----
+1.Mix all dry Ingredients(Flour,Sugar,Baking Soda)
+2.Add luke warm milk and melted Butter
