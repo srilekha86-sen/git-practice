@@ -7,3 +7,4 @@ Flour,Sugar,egg,milk,Baking Soda,Butter
 2.Add luke warm milk and melted Butter
 3.Heat the Pan
 4.Pour the batter on the heating Pan
+5.
