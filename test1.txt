@@ -1,4 +1,5 @@
 My first Recipe
 Pancake
 -----Ingredients----
-Flour,Sugar,egg,milk,Baking Soda,
+Flour,Sugar,egg,milk,Baking Soda,Butter
+-----Cooking Methods----
